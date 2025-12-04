@@ -1,0 +1,25 @@
+/* 1. 기본 문서 설정 */
+body {
+    background-color: #f4f4f4;
+    font-family: Arial, sans-serif;
+}
+
+/* 2. 제목 링크 스타일 초기화 및 색상 설정 */
+#oz-link {
+    text-decoration: none; /* 하이퍼링크 밑줄 제거 */
+}
+
+.daily-title {
+    color: #3498db; /* 제목 글자색 지정 */
+}
+
+/* 3. 목록 스타일 설정 */
+.task {
+    font-size: 18px;
+    margin-bottom: 10px;
+}
+
+/* 4. 특정 항목 강조 */
+#challenge-task {
+    font-weight: bold;
+}
